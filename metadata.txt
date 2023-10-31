@@ -1,0 +1,199 @@
+Name	CageID	Group	Sex	Genotype	Age	Batch	Group2	AD_path	Background
+9732	250754	5xfAD TREM2 (HO) 4months 	F	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9731	250754	5xfAD TREM2 (HO) 4months 	F	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9729	256414	5xfAD TREM2 (HO) 4months 	F	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9728	256414	5xfAD TREM2 (HO) 4months 	F	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9723	256414	5xfAD TREM2 (HO) 4months 	F	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9721	256414	5xfAD TREM2 (HO) 4months 	F	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9720	256414	5xfAD TREM2 (HO) 4months 	F	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9715	256411	5xfAD TREM2 (HO) 4months 	F	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9713	256411	5xfAD TREM2 (HO) 4months 	F	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9712	256411	5xfAD TREM2 (HO) 4months 	F	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9704	256410	5xfAD TREM2 (HO) 4months 	M	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9702	256410	5xfAD TREM2 (HO) 4months 	M	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9701	256409	5xfAD TREM2 (HO) 4months 	M	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9700	256409	5xfAD TREM2 (HO) 4months 	M	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9699	256409	5xfAD TREM2 (HO) 4months 	M	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9698	256409	5xfAD TREM2 (HO) 4months 	M	5X WT,TREM2 HO	4	One	WT 5xFAD_TREM2	No	TREM2
+9635	256376	5xfAD TREM2 (HO) 4months 	M	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9634	256375	5xfAD TREM2 (HO) 4months 	M	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9633	256375	5xfAD TREM2 (HO) 4months 	M	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+9631	256375	5xfAD TREM2 (HO) 4months 	M	5X HEMI TREM2 HO	4	One	HEMI 5xFAD_TREM2	Yes	TREM2
+791	111311	5xfAD  (18 months)	F	5XFAD_hemizygous	18	One	HEMI 5xFAD	Yes	B6J
+787	111311	5xfAD  (18 months)	F	5XFAD_hemizygous	18	One	HEMI 5xFAD	Yes	B6J
+785	111318	5xfAD  (18 months)	M	5XFAD_noncarrier	18	One	WT 5xFAD	No	B6J
+768	111321	5xfAD  (18 months)	F	5XFAD_hemizygous	18	One	HEMI 5xFAD	Yes	B6J
+762	111321	5xfAD  (18 months)	F	5XFAD_noncarrier	18	One	WT 5xFAD	No	B6J
+759	111460	5xfAD (12 months)	F	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+758	111460	5xfAD (12 months)	F	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+639	111329	5xfAD  (18 months)	M	5XFAD_noncarrier	18	One	WT 5xFAD	No	B6J
+637	111327	5xfAD (12 months)	M	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+601	111335	5xfAD (12 months)	M	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+596	111335	5xfAD (12 months)	M	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+586	111334	5xfAD (12 months)	M	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+585	111334	5xfAD (12 months)	M	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+584	111334	5xfAD (12 months)	M	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+582	111336	5xfAD (12 months)	F	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+579	111336	5xfAD (12 months)	F	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+575	111334	5xfAD (12 months)	M	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+572	111332	5xfAD (12 months)	M	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+571	111332	5xfAD (12 months)	M	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+570	111332	5xfAD (12 months)	M	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+567	111347	5xfAD  (18 months)	M	5XFAD_hemizygous	18	One	HEMI 5xFAD	Yes	B6J
+566	111347	5xfAD  (18 months)	F	5XFAD_noncarrier	18	One	WT 5xFAD	No	B6J
+565	111347	5xfAD  (18 months)	M	5XFAD_hemizygous	18	One	HEMI 5xFAD	Yes	B6J
+561	111347	5xfAD  (18 months)	M	5XFAD_hemizygous	18	One	HEMI 5xFAD	Yes	B6J
+534	111355	5xfAD  (18 months)	F	5XFAD_noncarrier	18	One	WT 5xFAD	No	B6J
+532	111353	5xfAD (12 months)	F	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+531	111353	5xfAD (12 months)	F	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+530	111353	5xfAD (12 months)	F	5XFAD_hemizygous	12	One	HEMI 5xFAD	Yes	B6J
+528	111353	5xfAD (12 months)	F	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+513	111354	5xfAD  (18 months)	M	5XFAD_hemizygous	18	One	HEMI 5xFAD	Yes	B6J
+486	111367	5xfAD (12 months)	F	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+478	111367	5xfAD (12 months)	F	5XFAD_noncarrier	12	One	WT 5xFAD	No	B6J
+304	111308	5xfAD  (18 months)	F	5XFAD_noncarrier	18	One	WT 5xFAD	No	B6J
+302	111308	5xfAD  (18 months)	F	5XFAD_noncarrier	18	One	WT 5xFAD	No	B6J
+301	111775	5xfAD  (18 months)	M	5XFAD_noncarrier	18	One	WT 5xFAD	No	B6J
+298	111775	5xfAD  (18 months)	M	5XFAD_hemizygous	18	One	HEMI 5xFAD	Yes	B6J
+14096	314602	5xfAD control (4 months)	F	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14095	314602	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14094	314600	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14093	314601	5xfAD control (4 months)	F	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14092	314603	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14091	314603	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14090	314602	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14089	314602	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14088	314600	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14087	314600	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14086	314601	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14085	314601	5xfAD control (4 months)	F	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14084	314601	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14083	314601	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14082	314598	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14081	314598	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14080	314600	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14073	314598	5xfAD control (4 months)	F	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14071	314598	5xfAD control (4 months)	F	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14070	314597	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14069	314597	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14068	314597	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14067	314597	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14066	314596	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14065	314596	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14064	314596	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14063	314596	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14062	314596	5xfAD control (4 months)	M	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14059	314595	5xfAD control (4 months)	F	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14058	314595	5xfAD control (4 months)	F	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14057	314595	5xfAD control (4 months)	F	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14056	314567	5xfAD control (4 months)	F	5xfAD  WT	4	Two	WT 5xFAD	No	B6J
+14055	314594	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14054	314594	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+14053	314594	5xfAD control (4 months)	M	5xfAD  HEMI	4	Two	HEMI 5xFAD	Yes	B6J
+11261	275531	5xfAD control (12 months)	F	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+10539	269232	5xfAD control (12 months)	F	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+10100	261507	5xfAD TREM2  (12 months) 	M	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+10099	261507	5xfAD TREM2  (12 months) 	M	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+10098	261507	5xfAD TREM2  (12 months) 	M	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+10097	261507	5xfAD TREM2  (12 months) 	M	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+10096	261507	5xfAD TREM2  (12 months) 	M	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+10043	261482	5xfAD TREM2  (12 months) 	M	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+10042	261482	5xfAD TREM2  (12 months) 	M	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+10041	261482	5xfAD TREM2  (12 months) 	M	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+10040	261482	5xfAD TREM2  (12 months) 	M	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+9761	256423	5xfAD TREM2  (12 months) 	M	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9736	256418	5xfAD TREM2  (12 months) 	F	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9727	256415	5xfAD TREM2  (12 months) 	M	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+9660	256390	5xfAD TREM2  (12 months) 	M	Trem2-em1 (Amgen) HO, 5xfAD  HEMI	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9659	256390	5xfAD TREM2  (12 months) 	M	Trem2-em1 (Amgen) HO, 5xfAD  WT	12	Two	WT 5xFAD_TREM2	No	TREM2
+9658	256390	5xfAD TREM2  (12 months) 	M	Trem2-em1 (Amgen) HO, 5xfAD  HEMI	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9640	256377	5xfAD TREM2  (12 months) 	F	Trem2-em1 (Amgen) HO, 5xfAD  WT	12	Two	WT 5xFAD_TREM2	No	TREM2
+9639	256377	5xfAD TREM2  (12 months) 	F	Trem2-em1 (Amgen) HO, 5xfAD  HEMI	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9638	256377	5xfAD TREM2  (12 months) 	F	Trem2-em1 (Amgen) HO, 5xfAD  WT	12	Two	WT 5xFAD_TREM2	No	TREM2
+9636	256376	5xfAD TREM2  (12 months) 	M	Trem2-em1 (Amgen) HO, 5xfAD  HEMI	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9632	256375	5xfAD TREM2  (12 months) 	M	Trem2-em1 (Amgen) HO, 5xfAD  WT	12	Two	WT 5xFAD_TREM2	No	TREM2
+9477	250723	5xfAD TREM2  (12 months) 	F	Trem2-em1 (Amgen) HO, 5xfAD  WT	12	Two	WT 5xFAD_TREM2	No	TREM2
+9476	250723	5xfAD TREM2  (12 months) 	F	Trem2-em1 (Amgen) HO, 5xfAD  WT	12	Two	WT 5xFAD_TREM2	No	TREM2
+9388	250694	5xfAD TREM2  (12 months) 	F	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9387	250694	5xfAD TREM2  (12 months) 	F	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9386	250694	5xfAD TREM2  (12 months) 	F	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+9385	250693	5xfAD TREM2  (12 months) 	F	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9384	250693	5xfAD TREM2  (12 months) 	F	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+9383	250693	5xfAD TREM2  (12 months) 	F	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9382	250692	5xfAD TREM2  (12 months) 	F	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+9381	250692	5xfAD TREM2  (12 months) 	F	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+9380	250692	5xfAD TREM2  (12 months) 	F	5xfAD  WT, Trem2-em1 (Amgen) HO	12	Two	WT 5xFAD_TREM2	No	TREM2
+9379	250692	5xfAD TREM2  (12 months) 	F	5xfAD  HEMI, Trem2-em1 (Amgen) HO	12	Two	HEMI 5xFAD_TREM2	Yes	TREM2
+8393	240576	5x Control (12 months)	M	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+8392	240576	5x Control (12 months)	M	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+8382	240580	5x Control (12 months)	M	B6J WT	12	Two	WT 5xFAD	No	B6J
+8350	240588	5x Control (12 months)	M	B6J WT	12	Two	WT 5xFAD	No	B6J
+8123	238080	5x Control (12 months)	F	B6J WT	12	Two	WT 5xFAD	No	B6J
+8062	238103	5x Control (12 months)	F	B6J WT	12	Two	WT 5xFAD	No	B6J
+8041	238126	5x Control (12 months)	M	B6J WT	12	Two	WT 5xFAD	No	B6J
+7988	238114	5x Control (12 months)	F	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7987	238115	5x Control (12 months)	M	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7939	231278	5x Control (12 months)	F	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7772	231367	5x Control (12 months)	M	B6J WT	12	Two	WT 5xFAD	No	B6J
+7764	231371	5x Control (12 months)	M	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7715	227088	5x Control (12 months)	F	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7684	227080	5x Control (12 months)	F	B6J WT	12	Two	WT 5xFAD	No	B6J
+7683	227080	5x Control (12 months)	F	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7580	227095	5x Control (12 months)	F	B6J WT	12	Two	WT 5xFAD	No	B6J
+7549	226656	5x Control (12 months)	F	B6J WT	12	Two	WT 5xFAD	No	B6J
+7548	226656	5x Control (12 months)	F	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7547	226656	5x Control (12 months)	F	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7134	220371	5x Control (12 months)	M	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7121	220367	5x Control (12 months)	M	B6J WT	12	Two	WT 5xFAD	No	B6J
+7120	220367	5x Control (12 months)	M	5xFAD HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+7119	220367	5x Control (12 months)	M	B6J WT	12	Two	WT 5xFAD	No	B6J
+20842	259237	5xfAD control (12 months)	F	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20837	259236	5xfAD control (12 months)	M	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20836	259236	5xfAD control (12 months)	M	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20835	259236	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20824	259224	5xfAD control (12 months)	F	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20823	259224	5xfAD control (12 months)	F	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20822	259224	5xfAD control (12 months)	F	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20821	259224	5xfAD control (12 months)	F	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20820	259224	5xfAD control (12 months)	F	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20819	259246	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20818	259246	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20817	259246	5xfAD control (12 months)	M	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20743	259234	5xfAD control (12 months)	F	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20742	259234	5xfAD control (12 months)	F	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20741	259234	5xfAD control (12 months)	F	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20740	259234	5xfAD control (12 months)	F	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20739	259234	5xfAD control (12 months)	F	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20737	259232	5xfAD control (12 months)	F	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20735	259232	5xfAD control (12 months)	F	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20733	259231	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20732	259231	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20730	259231	5xfAD control (12 months)	M	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20722	259227	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20721	259227	5xfAD control (12 months)	M	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20720	259227	5xfAD control (12 months)	M	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20681	259217	5xfAD control (12 months)	M	5xfAD  HEMI	12	Two	HEMI 5xFAD	Yes	B6J
+20680	259217	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20679	259217	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20678	259217	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20677	259217	5xfAD control (12 months)	M	5xfAD  WT	12	Two	WT 5xFAD	No	B6J
+20593	NA	5xfAD control (4 months)	F	5X WT	4	One	WT 5xFAD	No	B6J
+20682	NA	5xfAD control (4 months)	F	5X WT	4	One	WT 5xFAD	No	B6J
+20723	NA	5xfAD control (4 months)	F	5X WT	4	One	WT 5xFAD	No	B6J
+20726	NA	5xfAD control (4 months)	F	5X WT	4	One	WT 5xFAD	No	B6J
+20736	NA	5xfAD control (4 months)	F	5X WT	4	One	WT 5xFAD	No	B6J
+20554	NA	5xfAD control (4 months)	M	5X WT	4	One	WT 5xFAD	No	B6J
+20557	NA	5xfAD control (4 months)	M	5X WT	4	One	WT 5xFAD	No	B6J
+20559	NA	5xfAD control (4 months)	M	5X WT	4	One	WT 5xFAD	No	B6J
+20588	NA	5xfAD control (4 months)	M	5X WT	4	One	WT 5xFAD	No	B6J
+20728	NA	5xfAD control (4 months)	M	5X WT	4	One	WT 5xFAD	No	B6J
+20591	NA	5xfAD control (4 months)	F	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20592	NA	5xfAD control (4 months)	F	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20594	NA	5xfAD control (4 months)	F	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20724	NA	5xfAD control (4 months)	F	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20725	NA	5xfAD control (4 months)	F	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20556	NA	5xfAD control (4 months)	M	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20558	NA	5xfAD control (4 months)	M	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20587	NA	5xfAD control (4 months)	M	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20589	NA	5xfAD control (4 months)	M	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
+20590	NA	5xfAD control (4 months)	M	5X HEMI	4	One	HEMI 5xFAD	Yes	B6J
